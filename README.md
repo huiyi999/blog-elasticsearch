@@ -1,6 +1,6 @@
 # Blog Full-text Search System
 
-![image](image/System demo.png)
+![image](https://github.com/huiyi999/blog-elasticsearch/blob/master/image/System%20demo.png)
 
 > How to run:
 >
@@ -17,7 +17,7 @@
 > 3. MySQL(DB)
 > 4. ElasticSearch + Logstash + Kibana (Search and Synchronize DB)
 
-![image](image/Project Structure.pdf)
+![image](https://github.com/huiyi999/blog-elasticsearch/blob/master/image/Project%20Structure.pdf)
 
 
 
