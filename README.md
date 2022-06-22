@@ -1,5 +1,7 @@
 # Blog Full-text Search System
 
+![image](image/System demo.png)
+
 > How to run:
 >
 > 1. Start the mysql+elk docker services: https://github.com/huiyi999/docker-mysql-elk
@@ -15,8 +17,7 @@
 > 3. MySQL(DB)
 > 4. ElasticSearch + Logstash + Kibana (Search and Synchronize DB)
 
-<img src="/Users/chy/Library/Application Support/typora-user-images/Screen Shot 2022-06-21 at 8.13.51 PM.png" alt="Screen Shot 2022-06-21 at 8.13.51 PM" style="zoom:50%;" />
-
+![image](image/Project Structure.pdf)
 
 
 
